@@ -1,6 +1,14 @@
 # EduCast
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.8.
+Project Title : 'eduCast': A knowledge-based web application to provide learning resources in collaboration with the department of education(from grade 1 to 13).
+
+Team Details : K. W. M. C. Maduwantha - IT18100808 
+               G.A.P Madubashana - IT18103182 
+               V.T.K. Liyanage - IT18033274
+
+Problem Description : Due to the prevailing situation in the country, most students are not able to attend school and carry on with their learning activities
+
+Proposed Solution : A web application to which updates with the relavent books, workbooks, short notes and past papers from grade 1 to 13 for those who are unable to continue their activities till the schools re-open. This will be done under supervision and guidance from the department of education.
 
 ## Development server
 
