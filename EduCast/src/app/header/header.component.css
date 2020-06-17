@@ -1,0 +1,28 @@
+.custNav{
+    background-color: #035700;
+}
+
+.logoClass{
+    max-width: 20rem;
+    max-height:3rem;
+    padding-left: 0rem;
+}
+
+.nav-link {
+    font-family: "Baloo 2";
+    font-size: large;
+    color: azure;
+  }
+  #B4D499
+  .nav-link:active{
+    color: #FFFF00;
+  }
+
+  .nav-link:hover{
+    color: #B4D499;
+  }
+
+  .custRow{
+   
+    /* padding-left: 50%; */
+  }
